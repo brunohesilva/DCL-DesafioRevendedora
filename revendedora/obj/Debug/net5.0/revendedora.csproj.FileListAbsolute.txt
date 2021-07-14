@@ -1,0 +1,16 @@
+C:\Users\Bruno Henrique\revendedora\bin\Debug\net5.0\revendedora.exe
+C:\Users\Bruno Henrique\revendedora\bin\Debug\net5.0\revendedora.deps.json
+C:\Users\Bruno Henrique\revendedora\bin\Debug\net5.0\revendedora.runtimeconfig.json
+C:\Users\Bruno Henrique\revendedora\bin\Debug\net5.0\revendedora.runtimeconfig.dev.json
+C:\Users\Bruno Henrique\revendedora\bin\Debug\net5.0\revendedora.dll
+C:\Users\Bruno Henrique\revendedora\bin\Debug\net5.0\ref\revendedora.dll
+C:\Users\Bruno Henrique\revendedora\bin\Debug\net5.0\revendedora.pdb
+C:\Users\Bruno Henrique\revendedora\obj\Debug\net5.0\revendedora.csproj.AssemblyReference.cache
+C:\Users\Bruno Henrique\revendedora\obj\Debug\net5.0\revendedora.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Bruno Henrique\revendedora\obj\Debug\net5.0\revendedora.AssemblyInfoInputs.cache
+C:\Users\Bruno Henrique\revendedora\obj\Debug\net5.0\revendedora.AssemblyInfo.cs
+C:\Users\Bruno Henrique\revendedora\obj\Debug\net5.0\revendedora.csproj.CoreCompileInputs.cache
+C:\Users\Bruno Henrique\revendedora\obj\Debug\net5.0\revendedora.dll
+C:\Users\Bruno Henrique\revendedora\obj\Debug\net5.0\ref\revendedora.dll
+C:\Users\Bruno Henrique\revendedora\obj\Debug\net5.0\revendedora.pdb
+C:\Users\Bruno Henrique\revendedora\obj\Debug\net5.0\revendedora.genruntimeconfig.cache
